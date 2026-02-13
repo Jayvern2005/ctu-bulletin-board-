@@ -1,0 +1,16 @@
+./FILE_STRUCTURE.txt
+./README.md
+./SETUP_GUIDE.md
+./admin/LOGO_PLACEHOLDER.txt
+./admin/admin.css
+./admin/admin.js
+./admin/dashboard.html
+./admin/dashboard.js
+./admin/index.html
+./display/LOGO_PLACEHOLDER.txt
+./display/app.js
+./display/index.html
+./display/style.css
+./docs/ACADEMIC_CALENDAR_DATA.md
+./docs/FRONTEND_ARCHITECTURE.md
+./firebase/firebaseConfig.js
